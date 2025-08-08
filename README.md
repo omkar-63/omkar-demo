@@ -1,4 +1,4 @@
 # omkar-demo
-Author: Omkar Shinde
+Author: Omkar Shinde <br>
 This is my first Github repo.
 
